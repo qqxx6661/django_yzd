@@ -6,3 +6,6 @@ from django.template import RequestContext
 
 def home(request):
     return render(request, 'index.html', locals())
+
+def about(request):
+	return render(request, 'about.html', locals())
