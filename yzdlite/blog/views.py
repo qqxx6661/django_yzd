@@ -9,3 +9,6 @@ def home(request):
 
 def about(request):
 	return render(request, 'about.html', locals())
+
+def blog(request):
+	return render(request, 'blog.html', locals())
