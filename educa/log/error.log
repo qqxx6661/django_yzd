@@ -1,0 +1,2 @@
+[Wed Jan 31 03:42:21.603950 2018] [authz_core:error] [pid 11829:tid 139699582596864] [client 117.89.1.178:53211] AH01630: client denied by server configuration: /django/OnlineShop/educa/static, referer: http://35.194.178.149/admin/login/?next=/admin/
+[Wed Jan 31 03:42:21.604152 2018] [authz_core:error] [pid 11830:tid 139699708487424] [client 117.89.1.178:53209] AH01630: client denied by server configuration: /django/OnlineShop/educa/static, referer: http://35.194.178.149/admin/login/?next=/admin/
